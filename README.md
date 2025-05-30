@@ -1,5 +1,6 @@
 ## Hi there 👋 I'm Sagar
 - 🔭 I’m a graduate student and currently open to opportunities
+- ⚡ Skilled in: SQL, Python, AWS, Snowflake, Excel, R
 - 🌱 I’m currently learning cloud technologies and AI
 - 📫 Reach reach me at: linkedin.com/in/sagarchitre or sagarchitre.ae@gmail.com
   
